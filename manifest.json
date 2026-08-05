@@ -23,7 +23,7 @@
     "[RESET] Dex Rewards resetada (o seu progresso na Pokédex continua intacto)",
     "[INFO] Mundos de recursos resetam e servidor reinicia todos os dias às 00:00",
     "[INFO] Manutenção semanal para atualizações toda quinta-feira a partir das 19:00"
-  ]
-  "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/season2/CobbleSAS.zip"
+  ],
+  "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/season2/CobbleSAS.zip",
   "server_ip": "jogar.cobblesas.com.br"
 }
