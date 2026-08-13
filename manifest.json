@@ -5,24 +5,10 @@
   "fabric_loader_version": "0.19.2",
   "fabric_installer_version": "1.0.1",
   "changelog": [
-    "[NOVO] Sistema de Rankeds, partidas casuais e personalizadas",
-    "[NOVO] Torneios ativados no servidor",
-    "[NOVO] Passe de Batalha: Tema Overwatch e LoL/Arcane",
-    "[NOVO] Pokébuilder aprimorado (/editor ou na Battle Tower)",
-    "[NOVO] Sistema de economia via agricultura Cobblemon (/warp fazenda)",
-    "[NOVO] Sistema de missões adicionado (/missoes)",
-    "[NOVO] Sistema de cosméticos (/wardrobe ou Loja de Roupas)",
-    "[NOVO] Rotação de Pokémon com no mínimo 1 IV máximo (reseta a cada 12h)",
-    "[NOVO] Sistema de dicas de builds (/builder <nome>)",
-    "[+] 20 Novas Mega Evoluções",
-    "[+] 4 Novas Skins no /battlehub e catálogo de skins especiais no /wardrobe",
-    "[+] Sistema de Tags implementado",
-    "[+] Mais de 10 códigos promocionais disponíveis no Discord",
-    "[ATUALIZAÇÃO] Launcher e Modpack atualizados (versão 1.1)",
-    "[AJUSTE] TODOS os spawns de Pokémon foram rebalanceados",
-    "[RESET] Dex Rewards resetada (o seu progresso na Pokédex continua intacto)",
-    "[INFO] Mundos de recursos resetam e servidor reinicia todos os dias às 00:00",
-    "[INFO] Manutenção semanal para atualizações toda quinta-feira a partir das 19:00"
+    "[NOVO] Novo Daycare",
+    "[NOVO] Novo Sistema de Léndarios",
+    "[NOVO] CatchCombo",
+    "[EVENTO] 2x SHINY (Final de Semana)"
   ],
   "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/1308/06.zip",
   "server_ip": "jogar.cobblesas.com.br"
