@@ -1,5 +1,5 @@
 {
-  "version": "S2v1",
+  "version": "S2v2",
   "name": "CobbleSaS",
   "minecraft_version": "1.21.1",
   "fabric_loader_version": "0.19.2",
@@ -24,6 +24,6 @@
     "[INFO] Mundos de recursos resetam e servidor reinicia todos os dias às 00:00",
     "[INFO] Manutenção semanal para atualizações toda quinta-feira a partir das 19:00"
   ],
-  "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/season2/CobbleSAS.zip",
+  "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/1308/06.zip",
   "server_ip": "jogar.cobblesas.com.br"
 }
