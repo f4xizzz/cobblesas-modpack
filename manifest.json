@@ -1,5 +1,5 @@
 {
-  "version": "S2v4",
+  "version": "S2v5",
   "name": "CobbleSaS",
   "minecraft_version": "1.21.1",
   "fabric_loader_version": "0.19.2",
@@ -7,6 +7,6 @@
   "changelog": [
     "CORREÇÃO DE BUGS!"
   ],
-  "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/1508/CobbleSAS.Season2.1.3.1.zip",
+  "download_url": "https://github.com/f4xizzz/cobblesas-modpack/releases/download/2108/CobbleSAS.Season.2.1.3.3.zip",
   "server_ip": "jogar.cobblesas.com.br"
 }
